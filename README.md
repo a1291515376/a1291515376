@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**a1291515376/a1291515376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://medium.com">
+  <img align="left" alt="TomasCostaK Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
 
-Here are some ideas to get you started:
+<div>
+  
+<br />
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **a colorful way of listing my projects using VueJS**
+- 🌱 I’m currently learning **VueJs, Django, ExpressJS, DiscordJS**
+- 👯 If you have any projects you would like to colaborate, reach out to me.
+- 💬 Ask me about **anything**
+- ⚡ Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
+
+</h4>
+</div>
+
+-AODEB
